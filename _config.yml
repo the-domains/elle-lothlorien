@@ -1,0 +1,28 @@
+name: Elle Lothlorien
+favicon: null
+layout_spectrum: 0.26051148655824363
+typography_spectrum: 0.8712592166848481
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6431311711203307
+  lightness: 0.827466260176152
+  saturation: 0.1655737259425223
+  rhythmicContrast: 0.5110055755358189
+purpose: []
