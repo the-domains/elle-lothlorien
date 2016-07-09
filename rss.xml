@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Elle Lothlorien]]></title>
         <description><![CDATA[Elle Lothlorien]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elle-lothlorien/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 23:01:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 03:19:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elle-lothlorien/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I am scared of sharks.]]></title>
+            <description><![CDATA[<article><h1>I am scared of sharks.</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d774566a-33a1-44f3-86dd-816414228ba4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/elle-lothlorien/i-am-scared-of-sharks/index.html</link>
+            <guid isPermaLink="false">345231d8-ccd6-4037-b904-7c42b046a0e3</guid>
+            <pubDate>Sat, 09 Jul 2016 03:19:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[It would seem that we have a unicorn controversy on our hands.]]></title>
             <description><![CDATA[<article><h1>It would seem that we have a unicorn controversy on our hands.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41853395-c954-4ef5-ac3b-bfd81d4a428a.jpg"></article>]]></description>
-            <link>undefinedit-would-seem-that-we-have-a-unicorn-controversy-on-our-hand/index.html</link>
+            <link>https://thegrid.ai/elle-lothlorien/it-would-seem-that-we-have-a-unicorn-controversy-on-our-hand/index.html</link>
             <guid isPermaLink="false">6ed74e2b-c3e4-4c4f-a915-f6dbf8374424</guid>
             <pubDate>Fri, 08 Jul 2016 23:01:28 GMT</pubDate>
         </item>
